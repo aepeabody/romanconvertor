@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 def arabicToRoman
   { 1000 => "M",
@@ -41,3 +42,14 @@ def fromRoman(romanNumber)
     end
   arabic
 end
+=======
+def fromRoman(romanNumber)
+    # Replace the following line with the actual code!
+    raise NotImplementedError
+end
+
+def toRoman(arabicNumber)
+    # Replace the following line with the actual code!
+    raise NotImplementedError
+end
+>>>>>>> e2b1cb6ad4037e729922f2618d8aaf31f4df4540
